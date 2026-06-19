@@ -1,0 +1,6 @@
+{
+  "name": "Game Boy Image Converter",
+  "description": "一个功能丰富的仿金币机（GBC）与经典掌机画风的像素图片转换器，支持图像像素化、多种经典与自定义滤镜、抖动算法（Bayer & Floyd-Steinberg）、亮度对比度调节，以及复古LCD网格与相框自定义。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
